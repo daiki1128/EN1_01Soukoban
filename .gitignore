@@ -73,3 +73,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Packaged build output (do not commit - exceeds GitHub size limits)
+EN1_LE2B_08_カワハラ_ダイキ_Test01/
+*.pak
+*.ucas
+*.utoc
